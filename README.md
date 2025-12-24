@@ -6,11 +6,10 @@
 
 *The force that sustains systems from the unseen*
 
-![HTML](https://img.shields.io/badge/HTML-62.3%25-E34F26?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-14.8%25-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-11.5%25-1572B6?style=flat&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-9%25-CC6699?style=flat&logo=sass&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0.1%25-3776AB?style=flat&logo=python&logoColor=white)
+![Daemon Process](https://img.shields.io/badge/Daemon-Process-000000?style=for-the-badge&logo=linux&logoColor=white)
+![AI Powered](https://img.shields.io/badge/AI-Powered-0078D4?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Web Solutions](https://img.shields.io/badge/Web-Solutions-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 [![GitHub Followers](https://img.shields.io/github/followers/Deamonio?style=social)](https://github.com/Deamonio)
 [![GitHub Stars](https://img.shields.io/github/stars/Deamonio?style=social)](https://github.com/Deamonio)
@@ -31,12 +30,12 @@ from the **deepest core of the system**.
 
 We embody the spirit of the **Daemon Process**.  
 Like a program of trust that runs quietly in the background,  
-executing critical functions without fail.
+executing critical functions without fail. 
 
 > 🎯 **Our sole purpose**  
 > To become the most stable and intelligent force,  
 > completing an **unshakeable foundation of reliability**  
-> for your entire digital environment.
+> for your entire digital environment. 
 
 ---
 
@@ -77,7 +76,7 @@ Our code constructs an **unyielding foundation that never fails**.
 ```
 In places where systems never sleep,
 our code perfectly executes promised functions,
-instilling fundamental trust in every digital experience.
+instilling fundamental trust in every digital experience. 
 ```
 
 ### 2. ⚙️ Responsible Precision
@@ -105,7 +104,7 @@ We leverage this **unseen force** for:
 <details>
 <summary>📖 Read More (Click to expand)</summary>
 
-### 💻 Deamon Software: The Unseen Force Sustaining the System's Essence
+### 💻 Deamon Software:  The Unseen Force Sustaining the System's Essence
 
 We are Deamon. We declare that the true value of technology lies not in the transient user interface, but in the **intrinsic power of the code** that silently sustains everything from the system's deepest core. 
 
@@ -140,7 +139,7 @@ Deamon realizes three core philosophies that merge technical elegance with socia
    We pursue elegant code optimized for problem-solving  
    by precisely converging AI, Web solutions, and Embedded systems.  
    This precision is implemented to create virtuous value,  
-   such as improving energy efficiency and enhancing technological accessibility.
+   such as improving energy efficiency and enhancing technological accessibility. 
 
 3. **Function for Good**  
    We leverage this unseen force to expand our technological influence  
@@ -197,7 +196,7 @@ the latest technological trends without being constrained by existing frameworks
 
 <div align="center">
 
-![Deamon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deamonio&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=58A6FF&text_color=C9D1D9)
+![Deamon's GitHub Stats](https://github-readme-stats.vercel.app/api? username=Deamonio&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=58A6FF&text_color=C9D1D9)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deamonio&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9)
 
@@ -220,17 +219,17 @@ the latest technological trends without being constrained by existing frameworks
 > Digital System for Robotic High-precision Technology  
 > High-precision Robot Control Digital System
 
-**Tech**: [Tech stack needed]  
-**Philosophy**:  Reliable robotic solutions through precise control
+**Tech**: Hand Tracking, Robot Control, Computer Vision  
+**Philosophy**: Reliable robotic solutions through precise control
 
 ---
 
-### 🔬 [SSCAS](https://github.com/Deamonio/SSCAS)
-> Smart Sensing & Control Automation System  
-> Intelligent Sensing and Control Automation
+### 🚇 [SSCAS](https://github.com/Deamonio/SSCAS)
+> Subway Station Congestion Analysis System  
+> AI-powered Real-time Crowd Analysis
 
-**Tech**:  [Tech stack needed]  
-**Philosophy**: Setting new standards in automation through intelligent sensing
+**Tech**: Python, Flask, YOLOv8, Roboflow, OpenCV  
+**Philosophy**: Smart city solutions through intelligent sensing
 
 ---
 
@@ -238,8 +237,8 @@ the latest technological trends without being constrained by existing frameworks
 > GLaDOS AI Security Robot  
 > School Security Robot System
 
-**Tech**: Roboflow, YOLOv5, Node.js, Socket.io  
-**Philosophy**:  Applying AI vision to real security problems
+**Tech**: Roboflow, YOLOv5, Node. js, Socket.io  
+**Philosophy**: Applying AI vision to real security problems
 
 ---
 
@@ -247,7 +246,7 @@ the latest technological trends without being constrained by existing frameworks
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-hyun0810d@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyun0810d@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hyun0810d@gmail.com-EA4335? style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyun0810d@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Deamonio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deamonio)
 
 </div>
