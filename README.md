@@ -196,7 +196,7 @@ the latest technological trends without being constrained by existing frameworks
 
 <div align="center">
 
-![Deamon's GitHub Stats](https://github-readme-stats.vercel.app/api? username=Deamonio&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=58A6FF&text_color=C9D1D9)
+![Deamon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deamonio&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=58A6FF&text_color=C9D1D9)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deamonio&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9)
 
@@ -246,7 +246,7 @@ the latest technological trends without being constrained by existing frameworks
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-hyun0810d@gmail.com-EA4335? style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyun0810d@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hyun0810d@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyun0810d@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Deamonio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deamonio)
 
 </div>
