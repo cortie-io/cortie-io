@@ -1,6 +1,6 @@
 <div align="center">
 
-# 😈 Deamon
+# 😈 cortie.io
 
 ### ⭕ "The Power That Runs Unseen"
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 💻 We are Deamon
+## 💻 We are cortie.io
 
 The true value of technology is not in **conspicuous flash**.   
 It lies in the **intrinsic power of code** that silently sustains everything  
@@ -46,7 +46,7 @@ executing critical functions without fail.
 ```
     ╭─────────────────╮
     │                 │
-    │    ⚫ Deamon    │
+    │  ⚫ cortie.io   │
     │       ───       │
     │                 │
     ╰─────────────────╯
@@ -104,11 +104,11 @@ We leverage this **unseen force** for:
 <details>
 <summary>📖 Read More (Click to expand)</summary>
 
-### 💻 Deamon Software:  The Unseen Force Sustaining the System's Essence
+### 💻 cortie.io:  The Unseen Force Sustaining the System's Essence
 
-We are Deamon. We declare that the true value of technology lies not in the transient user interface, but in the **intrinsic power of the code** that silently sustains everything from the system's deepest core. 
+We are cortie.io. We declare that the true value of technology lies not in the transient user interface, but in the **intrinsic power of the code** that silently sustains everything from the system's deepest core. 
 
-Deamon embodies the spirit of the **Daemon Process**, the foundation of computer science.  
+cortie.io embodies the spirit of the **Daemon Process**, the foundation of computer science.  
 Like a program of trust that runs quietly in the background, executing critical functions without fail,  
 our purpose is to become **the most stable and intelligent force**,  
 completing a foundation of **unblemished reliability** for the entire digital environment.
@@ -117,7 +117,7 @@ completing a foundation of **unblemished reliability** for the entire digital en
 
 Our identity is concentrated in our logo.  
 The graceful white curve against a deep navy/black background  
-symbolizes Deamon's core philosophy beyond a simple form.
+symbolizes cortie.io's core philosophy beyond a simple form.
 
 - **Unseen Connection**: The curve visualizes the **'Unseen Connection'**, where AI, Web, and Embedded technologies continuously converge, transcending and penetrating the system's core.
 
@@ -126,9 +126,9 @@ symbolizes Deamon's core philosophy beyond a simple form.
 Our minimalist logo represents the technical precision and efficiency we pursue,  
 while the deep black color emphasizes trust and professionalism.
 
-### ✨ Deamon's Technical Philosophy:  A Fusion of Trust and Responsibility
+### ✨ cortie.io's Technical Philosophy:  A Fusion of Trust and Responsibility
 
-Deamon realizes three core philosophies that merge technical elegance with social responsibility.
+cortie.io realizes three core philosophies that merge technical elegance with social responsibility.
 
 1. **Unblemished Reliability**  
    Our code constructs an unyielding foundation that never fails.  
@@ -147,7 +147,7 @@ Deamon realizes three core philosophies that merge technical elegance with socia
 
 ### 🤝 Our Commitment to Results: Researching Innovative Solutions
 
-Deamon defines our deliverables not merely as products,  
+cortie.io defines our deliverables not merely as products,  
 but as **'Innovative Solutions'** or **'Research Outcomes'**.
 
 Each project proves our expertise and philosophy through:
@@ -196,7 +196,7 @@ the latest technological trends without being constrained by existing frameworks
 
 <div align="center">
 
-![Deamon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deamonio&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=58A6FF&text_color=C9D1D9)
+![cortie.io GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deamonio&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=58A6FF&text_color=C9D1D9)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deamonio&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9)
 
@@ -247,6 +247,7 @@ the latest technological trends without being constrained by existing frameworks
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-hyun0810d@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyun0810d@gmail.com)
+[![Website](https://img.shields.io/badge/Website-cortie.io-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cortie.io)
 [![GitHub](https://img.shields.io/badge/GitHub-Deamonio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deamonio)
 
 </div>
@@ -261,7 +262,7 @@ the latest technological trends without being constrained by existing frameworks
 > *doing exactly what it's supposed to do,*  
 > *without anyone noticing."*
 > 
-> **— Deamon Philosophy**
+> **— cortie.io Philosophy**
 
 </div>
 
@@ -271,12 +272,12 @@ the latest technological trends without being constrained by existing frameworks
 
 ## ⭕ The Power That Runs Unseen
 
-**We are Deamon**  
+**We are cortie.io**  
 The force that sustains systems from the unseen
 
 ---
 
-**© 2025 Deamon. All rights reserved.**
+**© 2025 cortie.io. All rights reserved.**
 
 *Made with ❤️ and precision*
 
