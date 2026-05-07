@@ -1,6 +1,6 @@
 <div align="center">
 
-# 😈 cortie.io
+# 🕸️ cortie.io
 
 ### ⭕ "The Power That Runs Unseen"
 
