@@ -2,243 +2,111 @@
 
 # 🕸️ cortie.io
 
-### ⭕ "The Power That Runs Unseen"
+### ⭕ "Build the Core, Shape the Flow"
 
-*The force that sustains systems from the unseen*
+*Technology that quietly shapes the system from within.*
 
-![Daemon Process](https://img.shields.io/badge/Daemon-Process-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![AI Powered](https://img.shields.io/badge/AI-Powered-0078D4?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 ![Web Solutions](https://img.shields.io/badge/Web-Solutions-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Creative Systems](https://img.shields.io/badge/Creative-Systems-6F42C1?style=for-the-badge&logo=github&logoColor=white)
+![Product Engineering](https://img.shields.io/badge/Product-Engineering-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)
 
-[![GitHub Followers](https://img.shields.io/github/followers/Deamonio?style=social)](https://github.com/Deamonio)
-[![GitHub Stars](https://img.shields.io/github/stars/Deamonio?style=social)](https://github.com/Deamonio)
+[![GitHub Followers](https://img.shields.io/github/followers/cortie-io?style=social)](https://github.com/cortie-io)
+[![GitHub Stars](https://img.shields.io/github/stars/cortie-io/cortie-io?style=social)](https://github.com/cortie-io/cortie-io)
 
 ---
 
-**Focus on the Essence, not the surface, to build unshakeable trust**
+**Focused systems, practical AI, and products that move with clarity.**
 
 </div>
 
 ---
 
-## 💻 We are cortie.io
+## 💻 About cortie.io
 
-The true value of technology is not in **conspicuous flash**.   
-It lies in the **intrinsic power of code** that silently sustains everything  
-from the **deepest core of the system**. 
+cortie.io builds technology with a preference for **clarity, structure, and lasting usefulness**.
+We care about systems that are not only visually polished, but also **well-composed under the surface**—
+from product direction and interface flow to implementation details and operational reliability.
 
-We embody the spirit of the **Daemon Process**.  
-Like a program of trust that runs quietly in the background,  
-executing critical functions without fail. 
+Our recent work reflects that direction most clearly through **ICARUS** and **Forge**:
 
-> 🎯 **Our sole purpose**  
-> To become the most stable and intelligent force,  
-> completing an **unshakeable foundation of reliability**  
-> for your entire digital environment. 
+- **ICARUS** explores intelligent systems, robotics, and applied AI.
+- **Forge** represents building, refining, and shipping practical digital products with stronger structure.
 
----
-
-## 💡 Logo Meaning: Unseen Connection
-
-<div align="center">
-
-```
-    ╭─────────────────╮
-    │                 │
-    │  ⚫ cortie.io   │
-    │       ───       │
-    │                 │
-    ╰─────────────────╯
-```
-
-</div>
-
-A graceful white curve on a deep navy/black background.   
-This simple form embodies our core philosophy:
-
-- **🌐 Unseen Connection**  
-  Visualizing how AI, Web, and Embedded technologies  
-  continuously converge and penetrate the system's core. 
-
-- **💫 Fundamental Flow**  
-  A force that flows quietly and stably without fanfare.  
-  The **core essence** that simply cuts through complex problems.
+Together, they express what cortie.io is becoming:
+**a studio for shaping resilient software, intelligent workflows, and meaningful technical experiences.**
 
 ---
 
-## ✨ Three Philosophies
+## ✨ Core Principles
 
-### 1. 🛡️ Unblemished Reliability
+### 1. 🧭 Build with Intent
 
-Our code constructs an **unyielding foundation that never fails**. 
+We prefer deliberate systems over noisy complexity.
+Every decision—product, design, or code—should support a clear purpose.
 
-```
-In places where systems never sleep,
-our code perfectly executes promised functions,
-instilling fundamental trust in every digital experience. 
-```
+### 2. ⚙️ Refine the Inner Structure
 
-### 2. ⚙️ Responsible Precision
+Good products are not held together by appearance alone.
+We focus on the internal logic, maintainability, and flow that make software dependable.
 
-We pursue **elegant code optimized for problem-solving**  
-by precisely converging AI, Web, and Embedded systems.
+### 3. 🚀 Ship Work That Can Grow
 
-**Value created by our precision:**
-- ⚡ Improved energy efficiency
-- 🌍 Enhanced technological accessibility
-- 🌱 Sustainable solutions
-
-### 3. 💚 Function for Good
-
-We leverage this **unseen force** for: 
-
-- Better human life
-- Sustainable society
-- Meaningful change
+We aim to create foundations that are flexible enough to evolve,
+not just demos that look complete for a moment.
 
 ---
 
-## 🎯 Expert Version: Technical Declaration
+## 🧪 Featured Projects
 
-<details>
-<summary>📖 Read More (Click to expand)</summary>
+### 🤖 [ICARUS](https://github.com/cortie-io/ICARUS)
+> Intelligent systems, robotics, and AI-driven experimentation
 
-### 💻 cortie.io:  The Unseen Force Sustaining the System's Essence
-
-We are cortie.io. We declare that the true value of technology lies not in the transient user interface, but in the **intrinsic power of the code** that silently sustains everything from the system's deepest core. 
-
-cortie.io embodies the spirit of the **Daemon Process**, the foundation of computer science.  
-Like a program of trust that runs quietly in the background, executing critical functions without fail,  
-our purpose is to become **the most stable and intelligent force**,  
-completing a foundation of **unblemished reliability** for the entire digital environment.
-
-### 💡 Visual Language: Connection, Flow, and Precision
-
-Our identity is concentrated in our logo.  
-The graceful white curve against a deep navy/black background  
-symbolizes cortie.io's core philosophy beyond a simple form.
-
-- **Unseen Connection**: The curve visualizes the **'Unseen Connection'**, where AI, Web, and Embedded technologies continuously converge, transcending and penetrating the system's core.
-
-- **Fundamental Flow**: This represents a force that flows quietly and stably without fanfare, signifying the **Core Essence** that simply cuts through complex problems.
-
-Our minimalist logo represents the technical precision and efficiency we pursue,  
-while the deep black color emphasizes trust and professionalism.
-
-### ✨ cortie.io's Technical Philosophy:  A Fusion of Trust and Responsibility
-
-cortie.io realizes three core philosophies that merge technical elegance with social responsibility.
-
-1. **Unblemished Reliability**  
-   Our code constructs an unyielding foundation that never fails.  
-   We perfectly execute promised functions from the unseen layer,  
-   instilling fundamental trust in every digital experience. 
-
-2. **Responsible Precision**  
-   We pursue elegant code optimized for problem-solving  
-   by precisely converging AI, Web solutions, and Embedded systems.  
-   This precision is implemented to create virtuous value,  
-   such as improving energy efficiency and enhancing technological accessibility. 
-
-3. **Function for Good**  
-   We leverage this unseen force to expand our technological influence  
-   by building solutions for a better human life and a sustainable society. 
-
-### 🤝 Our Commitment to Results: Researching Innovative Solutions
-
-cortie.io defines our deliverables not merely as products,  
-but as **'Innovative Solutions'** or **'Research Outcomes'**.
-
-Each project proves our expertise and philosophy through:
-- Clear problem definition
-- Our integrated technology approach
-- Verifiable performance metrics
-
-Our core strength is the **agility** to absorb and apply  
-the latest technological trends without being constrained by existing frameworks.
+**Focus**: AI, robotics, computer vision, embedded integration  
+**Role in cortie.io**: A flagship exploration of intelligent control, autonomy, and real-world system behavior.
 
 ---
 
-> 💭 **Our code may not be visible to you.**  
-> But like our logo, that unseen force is  
-> supporting society from the system's depths,  
-> driving a quiet change toward a better life.
+### 🔨 [Forge](https://github.com/cortie-io/forge)
+> A product-building direction centered on structure, refinement, and execution
 
-</details>
+**Focus**: product engineering, system design, web implementation, iterative development  
+**Role in cortie.io**: The practical making-side of cortie.io—where ideas are shaped into stronger products and workflows.
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Current Technical Direction
 
-**Expertise:**
+```text
+🤖 Applied AI
+├─ intelligent workflows
+├─ computer vision experiments
+└─ automation-oriented systems
 
-```
-🤖 AI & Machine Learning
-├─ TensorFlow / PyTorch
-├─ Computer Vision
-└─ Natural Language Processing
+🌐 Web & Product Engineering
+├─ HTML / CSS / SCSS / JavaScript
+├─ interface architecture
+└─ maintainable frontend systems
 
-🌐 Web Development
-├─ Frontend:  HTML, CSS/SCSS, JavaScript
-├─ Backend: Node. js, Python
-└─ Frameworks: React, Express
-
-⚡ Embedded Systems
-├─ Arduino / Raspberry Pi
-├─ IoT Solutions
-└─ Real-time Systems
+🧩 System Thinking
+├─ structured product design
+├─ operational clarity
+└─ scalable technical foundations
 ```
 
 ---
 
-## 📊 GitHub Statistics
+## 🌱 What We’re Building Toward
 
-<div align="center">
+cortie.io is growing toward a practice that connects:
 
-![cortie.io GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deamonio&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=58A6FF&text_color=C9D1D9)
+- **AI experimentation** with real product outcomes
+- **creative direction** with technical discipline
+- **strong interfaces** with stronger internals
+- **independent projects** with a cohesive long-term vision
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deamonio&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-### 🤖 [ICARUS](https://github.com/Deamonio/ICARUS)
-> Intelligent Control & Automation Robotics with Understanding System  
-> 7-DOF Robot Arm with AI Vision Control
-
-**Tech**: Python, YOLO, OpenCV, Arduino  
-**Philosophy**:  Intelligent robotics through AI and embedded fusion
-
----
-
-### 🎯 [DiSRHiT](https://github.com/Deamonio/DiSRHiT)
-> Digital System for Robotic High-precision Technology  
-> High-precision Robot Control Digital System
-
-**Tech**: Hand Tracking, Robot Control, Computer Vision  
-**Philosophy**: Reliable robotic solutions through precise control
-
----
-
-### 🚇 [SSCAS](https://github.com/Deamonio/SSCAS)
-> Subway Station Congestion Analysis System  
-> AI-powered Real-time Crowd Analysis
-
-**Tech**: Python, Flask, YOLOv8, Roboflow, OpenCV  
-**Philosophy**: Smart city solutions through intelligent sensing
-
----
-
-### 🏫 [Glaisser](https://github.com/Deamonio/Glaisser)
-> GLaDOS AI Security Robot  
-> School Security Robot System
-
-**Tech**: Roboflow, YOLOv5, Node. js, Socket.io  
-**Philosophy**: Applying AI vision to real security problems
+We are less interested in noise, and more interested in building
+**systems that feel inevitable once they exist.**
 
 ---
 
@@ -248,21 +116,20 @@ the latest technological trends without being constrained by existing frameworks
 
 [![Email](https://img.shields.io/badge/Email-hyun0810d@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyun0810d@gmail.com)
 [![Website](https://img.shields.io/badge/Website-cortie.io-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cortie.io)
-[![GitHub](https://img.shields.io/badge/GitHub-Deamonio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deamonio)
+[![GitHub](https://img.shields.io/badge/GitHub-cortie--io-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cortie-io)
 
 </div>
 
 ---
 
-## 💬 Quote
+## 💬 Closing Note
 
 <div align="center">
 
-> *"The best code is the code that runs silently in the background,*  
-> *doing exactly what it's supposed to do,*  
-> *without anyone noticing."*
-> 
-> **— cortie.io Philosophy**
+> *Build the core well,*  
+> *and the rest can move with confidence.*
+>
+> **— cortie.io**
 
 </div>
 
@@ -270,15 +137,15 @@ the latest technological trends without being constrained by existing frameworks
 
 <div align="center">
 
-## ⭕ The Power That Runs Unseen
+## ⭕ Build the Core, Shape the Flow
 
 **We are cortie.io**  
-The force that sustains systems from the unseen
+Quietly shaping better systems from the inside out.
 
 ---
 
-**© 2025 cortie.io. All rights reserved.**
+**© 2026 cortie.io. All rights reserved.**
 
-*Made with ❤️ and precision*
+*Made with clarity, structure, and intent.*
 
 </div>
