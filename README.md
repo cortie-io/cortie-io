@@ -1,116 +1,103 @@
 <div align="center">
 
-# 🕸️ cortie.io
+# ⭕ cortie.io
 
-### ⭕ "Build the Core, Shape the Flow"
+### *Quiet systems. Sharp products. Enduring direction.*
 
-*Technology that quietly shapes the system from within.*
+Technology shaped with clarity, structure, and intent.
 
-![AI Powered](https://img.shields.io/badge/AI-Powered-0078D4?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
-![Web Solutions](https://img.shields.io/badge/Web-Solutions-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Creative Systems](https://img.shields.io/badge/Creative-Systems-6F42C1?style=for-the-badge&logo=github&logoColor=white)
-![Product Engineering](https://img.shields.io/badge/Product-Engineering-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-70.5%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-14%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-8.7%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-6.7%25-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 [![GitHub Followers](https://img.shields.io/github/followers/cortie-io?style=social)](https://github.com/cortie-io)
 [![GitHub Stars](https://img.shields.io/github/stars/cortie-io/cortie-io?style=social)](https://github.com/cortie-io/cortie-io)
-
----
-
-**Focused systems, practical AI, and products that move with clarity.**
 
 </div>
 
 ---
 
-## 💻 About cortie.io
+## About
 
-cortie.io builds technology with a preference for **clarity, structure, and lasting usefulness**.
-We care about systems that are not only visually polished, but also **well-composed under the surface**—
-from product direction and interface flow to implementation details and operational reliability.
+**cortie.io** is a studio shaped around deliberate systems, refined interfaces, and technology that works with quiet strength.
+We care about what happens beneath the surface as much as what appears on it—
+from product structure and interface flow to implementation quality and long-term maintainability.
 
-Our recent work reflects that direction most clearly through **ICARUS** and **Forge**:
-
-- **ICARUS** explores intelligent systems, robotics, and applied AI.
-- **Forge** represents building, refining, and shipping practical digital products with stronger structure.
-
-Together, they express what cortie.io is becoming:
-**a studio for shaping resilient software, intelligent workflows, and meaningful technical experiences.**
+This repository reflects that direction through a cleaner, more focused identity:
+**building meaningful digital systems that feel clear, composed, and built to last.**
 
 ---
 
-## ✨ Core Principles
+## Slogan
 
-### 1. 🧭 Build with Intent
-
-We prefer deliberate systems over noisy complexity.
-Every decision—product, design, or code—should support a clear purpose.
-
-### 2. ⚙️ Refine the Inner Structure
-
-Good products are not held together by appearance alone.
-We focus on the internal logic, maintainability, and flow that make software dependable.
-
-### 3. 🚀 Ship Work That Can Grow
-
-We aim to create foundations that are flexible enough to evolve,
-not just demos that look complete for a moment.
+> **The Power That Runs Unseen**
+>
+> A direction for systems, products, and technical experiences that create real impact without unnecessary noise.
 
 ---
 
-## 🧪 Featured Projects
+## Recent Projects
 
-### 🤖 [ICARUS](https://github.com/cortie-io/ICARUS)
-> Intelligent systems, robotics, and AI-driven experimentation
+### 🪽 [Icarus](https://github.com/cortie-io/ICARUS)
+**Intelligent systems, robotics, and AI experimentation**
 
-**Focus**: AI, robotics, computer vision, embedded integration  
-**Role in cortie.io**: A flagship exploration of intelligent control, autonomy, and real-world system behavior.
-
----
+Icarus represents cortie.io’s exploration into applied intelligence—
+where autonomy, machine perception, and ambitious system thinking come together.
 
 ### 🔨 [Forge](https://github.com/cortie-io/forge)
-> A product-building direction centered on structure, refinement, and execution
+**Product building, refinement, and execution**
 
-**Focus**: product engineering, system design, web implementation, iterative development  
-**Role in cortie.io**: The practical making-side of cortie.io—where ideas are shaped into stronger products and workflows.
+Forge is the practical making side of cortie.io—
+a place for shaping ideas into durable products, stronger workflows, and better technical foundations.
 
 ---
 
-## 🔧 Current Technical Direction
+## What We Value
+
+- **Clarity over noise** — products should communicate purpose instantly.
+- **Strong internal structure** — good systems are built from the inside out.
+- **Execution with taste** — polished work comes from disciplined decisions.
+- **Momentum that lasts** — we build foundations that can keep evolving.
+
+---
+
+## Technical Focus
 
 ```text
-🤖 Applied AI
-├─ intelligent workflows
-├─ computer vision experiments
-└─ automation-oriented systems
+AI & Intelligent Systems
+├─ applied AI
+├─ robotics exploration
+└─ automation-oriented thinking
 
-🌐 Web & Product Engineering
+Web & Product Engineering
 ├─ HTML / CSS / SCSS / JavaScript
-├─ interface architecture
-└─ maintainable frontend systems
+├─ interface composition
+└─ maintainable frontend structure
 
-🧩 System Thinking
-├─ structured product design
-├─ operational clarity
-└─ scalable technical foundations
+System Design
+├─ product architecture
+├─ clear workflows
+└─ long-term usability
 ```
 
 ---
 
-## 🌱 What We’re Building Toward
+## Vision
 
-cortie.io is growing toward a practice that connects:
+cortie.io is growing into a practice that connects:
 
-- **AI experimentation** with real product outcomes
-- **creative direction** with technical discipline
-- **strong interfaces** with stronger internals
-- **independent projects** with a cohesive long-term vision
+- intelligent systems
+- thoughtful product engineering
+- visually clear interfaces
+- resilient technical foundations
 
-We are less interested in noise, and more interested in building
-**systems that feel inevitable once they exist.**
+We build for a future where software feels elegant not because it is loud,
+but because it is **well made**.
 
 ---
 
-## 📞 Contact
+## Contact
 
 <div align="center">
 
@@ -122,30 +109,12 @@ We are less interested in noise, and more interested in building
 
 ---
 
-## 💬 Closing Note
-
 <div align="center">
 
-> *Build the core well,*  
-> *and the rest can move with confidence.*
->
-> **— cortie.io**
+## ⭕ cortie.io
 
-</div>
-
----
-
-<div align="center">
-
-## ⭕ Build the Core, Shape the Flow
-
-**We are cortie.io**  
-Quietly shaping better systems from the inside out.
-
----
+**Quietly shaping better systems from the inside out.**
 
 **© 2026 cortie.io. All rights reserved.**
-
-*Made with clarity, structure, and intent.*
 
 </div>
