@@ -2,98 +2,62 @@
 
 # ⭕ cortie.io
 
-### *Quiet systems. Sharp products. Enduring direction.*
+**Quiet systems. Sharp products. Enduring direction.**
 
-Technology shaped with clarity, structure, and intent.
+Designing digital products, intelligent systems, and technical foundations with clarity, restraint, and intent.
 
-![HTML](https://img.shields.io/badge/HTML-70.5%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-14%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-8.7%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-6.7%25-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-[![GitHub Followers](https://img.shields.io/github/followers/cortie-io?style=social)](https://github.com/cortie-io)
-[![GitHub Stars](https://img.shields.io/github/stars/cortie-io/cortie-io?style=social)](https://github.com/cortie-io/cortie-io)
+[Website](https://cortie.io) · [GitHub](https://github.com/cortie-io) · [Contact](mailto:hyun0810d@gmail.com)
 
 </div>
 
 ---
 
-## About
+## Presence
 
-**cortie.io** is a studio shaped around deliberate systems, refined interfaces, and technology that works with quiet strength.
-We care about what happens beneath the surface as much as what appears on it—
-from product structure and interface flow to implementation quality and long-term maintainability.
+**cortie.io** is a studio for composed technology.
 
-This repository reflects that direction through a cleaner, more focused identity:
-**building meaningful digital systems that feel clear, composed, and built to last.**
+We build with a calm surface and a rigorous core—shaping products, interfaces, and systems that feel clear in use, deliberate in structure, and durable over time.
 
 ---
 
-## Slogan
+## Signature
 
 > **The Power That Runs Unseen**
 >
-> A direction for systems, products, and technical experiences that create real impact without unnecessary noise.
+> Technology with presence, precision, and quiet force.
 
 ---
 
-## Recent Projects
+## Selected Work
 
-### 🪽 [Icarus](https://github.com/cortie-io/ICARUS)
-**Intelligent systems, robotics, and AI experimentation**
+### [Icarus](https://github.com/cortie-io/ICARUS)
 
-Icarus represents cortie.io’s exploration into applied intelligence—
-where autonomy, machine perception, and ambitious system thinking come together.
+**Applied intelligence, robotics, and experimental systems**
 
-### 🔨 [Forge](https://github.com/cortie-io/forge)
+An exploration of autonomy, perception, and ambitious machine-centered design.
+
+### [Forge](https://github.com/cortie-io/forge)
+
 **Product building, refinement, and execution**
 
-Forge is the practical making side of cortie.io—
-a place for shaping ideas into durable products, stronger workflows, and better technical foundations.
+A workshop for shaping ideas into durable interfaces, stronger workflows, and better technical foundations.
 
 ---
 
-## What We Value
+## Practice
 
-- **Clarity over noise** — products should communicate purpose instantly.
-- **Strong internal structure** — good systems are built from the inside out.
-- **Execution with taste** — polished work comes from disciplined decisions.
-- **Momentum that lasts** — we build foundations that can keep evolving.
-
----
-
-## Technical Focus
-
-```text
-AI & Intelligent Systems
-├─ applied AI
-├─ robotics exploration
-└─ automation-oriented thinking
-
-Web & Product Engineering
-├─ HTML / CSS / SCSS / JavaScript
-├─ interface composition
-└─ maintainable frontend structure
-
-System Design
-├─ product architecture
-├─ clear workflows
-└─ long-term usability
-```
+- **Intelligent systems** — applied AI, robotics, and automation-oriented thinking
+- **Product engineering** — interface composition, frontend craft, and measured execution
+- **System design** — architecture, maintainability, and long-term usability
 
 ---
 
-## Vision
+## Principles
 
-cortie.io is growing into a practice that connects:
-
-- intelligent systems
-- thoughtful product engineering
-- visually clear interfaces
-- resilient technical foundations
-
-We build for a future where software feels elegant not because it is loud,
-but because it is **well made**.
+- **Clarity before noise**
+- **Restraint as a design tool**
+- **Craft in structure and detail**
+- **Durability over novelty**
 
 ---
 
@@ -101,9 +65,7 @@ but because it is **well made**.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-hyun0810d@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyun0810d@gmail.com)
-[![Website](https://img.shields.io/badge/Website-cortie.io-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cortie.io)
-[![GitHub](https://img.shields.io/badge/GitHub-cortie--io-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cortie-io)
+[Website](https://cortie.io) · [Email](mailto:hyun0810d@gmail.com) · [GitHub](https://github.com/cortie-io)
 
 </div>
 
@@ -111,10 +73,10 @@ but because it is **well made**.
 
 <div align="center">
 
-## ⭕ cortie.io
+**cortie.io**
 
-**Quietly shaping better systems from the inside out.**
+Quietly shaping technology that feels composed, capable, and built to last.
 
-**© 2026 cortie.io. All rights reserved.**
+© 2026 cortie.io
 
 </div>
